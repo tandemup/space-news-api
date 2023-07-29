@@ -1,5 +1,6 @@
 import React from "react";
 import SpaceFlight from "./SpaceFlight";
+import "./App.css";
 
 function App() {
   return (
